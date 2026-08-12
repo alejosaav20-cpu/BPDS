@@ -1,0 +1,1 @@
+// Aplicación para la gestión de usuarios y productos.
