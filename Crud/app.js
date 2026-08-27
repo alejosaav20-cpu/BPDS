@@ -1,6 +1,5 @@
 // Aplicación para la ( agrego parte editada) gestión de usuarios y productos.
 //otro comentario para ver si se guarda
 //aaaaaaaaaaaaadadada
-// esta linea esta diferente para comprobar si el error se puede resolver
-
-//ya entendi como es, voy a escribir cualquier cosa en esta linea y luego en prod2 escribo otra cosa para el conflicto,
+// ya cree el conflicto solo falta tirar pull request para que quede en los registros de github(profe esto me llevo mas tiempo de lo que tenia pensado ya estoy cansado y me voy a dormir)
+//tiro esta segunda linea por si acaso
