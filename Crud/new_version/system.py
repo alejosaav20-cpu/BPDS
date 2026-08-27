@@ -1,3 +1,5 @@
 print("aqui esta el sistemas mas mejor")
 sistema = "mas mejor" 
-#hola como estan?
++ str(input("es sistema es?"))
+if sistema == " el mas mejor":
+    print("si es el sistema mas mejor")
