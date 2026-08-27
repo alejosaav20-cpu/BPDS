@@ -2,3 +2,5 @@
 //otro comentario para ver si se guarda
 //aaaaaaaaaaaaadadada
 // esta linea esta diferente para comprobar si el error se puede resolver
+
+//ya entendi como es, voy a escribir cualquier cosa en esta linea y luego en prod2 escribo otra cosa para el conflicto,
