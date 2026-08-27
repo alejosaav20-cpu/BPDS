@@ -3,3 +3,5 @@ sistema = "mas mejor"
 + str(input("es sistema es?"))
 if sistema == " el mas mejor":
     print("si es el sistema mas mejor")
+    print("===================================")
+    print("el sistema mas mejor es el mejor de todos")
